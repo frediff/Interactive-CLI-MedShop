@@ -25,3 +25,8 @@ then provide option to choose one
 > 7. List inventory of a shop (Products and counts) 
 > 8. Products made by a manufacturer
 > 9. A master text-based interface to access all the above functionalities
+
+## A sample view during regular use of the CLI interface
+<p align="center">
+  <img src = "./med_screenshot.png">
+</p>
