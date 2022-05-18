@@ -14,7 +14,7 @@ and Warehouses have a zipcode (int), an inventory of the number of available cop
 products (list of java tuples)). A delivery agent has a zipcode (int), and the number of products
 delivered. </p>
 
-## This project involves designing and implementing a backend java program following the object oriented paradigm, and implementing the following functionalities:
+### This project involves designing and implementing a backend java program following the object oriented paradigm, and implementing the following functionalities:
 > 1. Create, delete and print entities of each type. For delete print all entities of a type and
 then provide option to choose one
 > 2. Add a product to manufacturer
