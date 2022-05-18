@@ -6,6 +6,9 @@
 • Product
 • Shops and Warehouses
 • Delivery agent.*
+
+<strong>Intutitively I wanted to make a SQL catered for an Online Medicine Shop!</strong>
+
 <p align="justify">
 All entities have a unique id (int), and a name (String). Additionally, a manufacturer has a set of
 products which it can manufacture. Each product has a manufacturer who can manufacture it.
