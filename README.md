@@ -1,11 +1,11 @@
 # Interactive-CLI-MedShop
 
-*In a program-automated-online medicine shop, there are the following set of relevant entities:
-• Manufacturer
-• Customer
-• Product
-• Shops and Warehouses
-• Delivery agent.*
+*In a program-automated-online medicine shop, there are the following set of relevant entities:*
+- *Manufacturer*
+- *Customer*
+- *Product*
+- *Shops and Warehouses*
+- *Delivery agent.*
 
 <strong>Intutitively I wanted to make a SQL catered for an Online Medicine Shop!</strong>
 
