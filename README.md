@@ -11,7 +11,7 @@
 
 <p align="justify">
 All entities have a unique id (int), and a name (String). Additionally, a manufacturer has a set of products which it can manufacture. Each product has a manufacturer who can manufacture it. Customers have a zip code (int) and a list of purchased products, which are initially empty. Shops and Warehouses have a zip-code (int), an inventory of the number of available copies of all
-products (list of java tuples). A delivery agent has a zip-code (int), and the number of products delivered. </p>
+products. A delivery agent has a zip-code (int), and the number of products delivered. </p>
 
 ### This project involves designing and implementing a back-end java program following the object oriented paradigm, and implementing the following functionalities:
 > 1. Create, delete and print entities of each type. For delete first all entities of a type are printed and
