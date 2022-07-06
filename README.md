@@ -1,6 +1,6 @@
 # Interactive-CLI-MedShop
 
-*In a program-automated-online medicine shop, there are the following set of relevant entities:*
+*In a program-automated-online medicine shop, these are the following set of relevant entities:*
 - *Manufacturer*
 - *Customer*
 - *Product*
