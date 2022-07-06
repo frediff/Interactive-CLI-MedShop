@@ -10,7 +10,7 @@
 <strong>Intutitively I wanted to make a SQL catered for an Online Medicine Shop!</strong>
 
 <p align="justify">
-All entities have a unique id (int), and a name (String). Additionally, a manufacturer has a set of products which it can manufacture. Each product has a manufacturer who can manufacture it. Customers have a zip code (int) and a list of purchased products, which are initially empty. Shops and Warehouses have a zip-code (int), an inventory of the number of available copies of all
+All entities have a unique id (int), and a name (String). Additionally, a manufacturer has a set of products which it can manufacture. Each product has a manufacturer who can manufacture it. Customers have a zip-code (int) and a list of purchased products, which are initially empty. Shops and Warehouses have a zip-code (int) and an inventory of the number of available copies of all
 products. A delivery agent has a zip-code (int), and the number of products delivered. </p>
 
 ### This project involves designing and implementing a back-end java program following the object oriented paradigm, and implementing the following functionalities:
